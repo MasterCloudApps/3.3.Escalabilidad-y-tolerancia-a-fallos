@@ -21,7 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>		
 		<java.version>1.8</java.version>
-		<start-class>es.codeurjc.mca.web.Application.java</start-class>
+		<start-class>es.codeurjc.mca.web.Application</start-class>
 	</properties>
 
 	<dependencies>
