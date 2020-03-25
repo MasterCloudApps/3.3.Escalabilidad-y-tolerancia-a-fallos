@@ -1,4 +1,4 @@
-package es.urjc.code.security;
+package es.codeurjc.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
