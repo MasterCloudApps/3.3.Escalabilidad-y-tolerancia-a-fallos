@@ -98,10 +98,10 @@
 						<ports>
 							<port>8080</port>
 						</ports>
+						<jvmFlags>
+							<jvmFlag>-Djava.security.edg=file:/dev/./urandom</jvmFlag>
+						</jvmFlags>
 					</container>
-					<jvmFlags>
-						<jvmFlag>-Djava.security.edg=file:/dev/./urandom</jvmFlag>
-					</jvmFlags>
 				</configuration>
 				<executions>
 					<execution>
